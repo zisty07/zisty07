@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a fellow starting programmer with a dream to become a software engineer one day.
+Right now I am focusing on ***self improvement*** and on **c++ work**.
+
 <!--
 **zisty07/zisty07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
